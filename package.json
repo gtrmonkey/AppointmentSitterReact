@@ -2,6 +2,9 @@
   "name": "appoinmentsitter",
   "version": "0.1.0",
   "main": "server.js",
+  "engines": {
+    "node": ">=8.12.0"
+    },
   "dependencies": {
     "axios": "^0.16.2",
     "bcrypt-nodejs": "0.0.3",
