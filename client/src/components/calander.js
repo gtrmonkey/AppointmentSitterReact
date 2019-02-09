@@ -5,7 +5,7 @@ import axios from 'axios';
 // ... and fullcalendar-reactwrapper.
 import EventForm from './eventForm';
 import FullCalendar from 'fullcalendar-reactwrapper';
-import './calendar.css'
+import '../components/Calender.css'
 
 class Calender extends Component {
   constructor(props) {
